@@ -1,16 +1,10 @@
-## Poly White GRUB Theme | INS ALFONS COSTAFREDA
-__________________________________________________
-EDITED FOR MY INSTITUTE | INS ALFONS COSTAFREDA
+## Poly dark GRUB theme
 
-Real creator: https://github.com/shvchk
-
-Real prject: https://github.com/shvchk/poly-light
-___________________________________________________
 Supported languages: Chinese (simplified), English, French, German, Italian, Norwegian, Portuguese, Russian, Spanish, Ukrainian
 
-![](https://i.imgur.com/9gzjxYs.png)
+![](https://i.imgur.com/OHGyR2N.gif)
 
-Screenshot is intentionally low res to fit GitHub UI. See also: [1280×720](https://imgur.com/a/dxD97ai), [1920×1080](https://imgur.com/9gzjxYs)
+Screenshot is intentionally low res to fit GitHub UI. See also: [1280×720](https://i.imgur.com/iKtkLr4.png), [1920×1080](https://i.imgur.com/faGEmp5.png)
 
 ---
 
